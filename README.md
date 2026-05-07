@@ -1,2 +1,2 @@
 - [Colab and Linux CLI, Introduction](https://colab.research.google.com/drive/1MbQ_D4J1lOiqfEmNwLnFpiD-gqmnXmk3)
-- [Face Detection with YOLO on Colab](https://colab.research.google.com/drive/14u9-KyDUsLnC5xoWt3Z_kgstJAH_QYBL?authuser=1)
+- [Face Detection with YOLO on Colab](https://colab.research.google.com/drive/1ZFKzxWIkEe3ptxmgcRDKUSZeGNW1KVMN#scrollTo=148eRPF04odg)
