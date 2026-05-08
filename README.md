@@ -1,4 +1,4 @@
-# Google Colab Notebooks
+# Junior Student Group (YOLO)
 
 ## 1. [Colab and Linux CLI, Introduction](https://colab.research.google.com/drive/1MbQ_D4J1lOiqfEmNwLnFpiD-gqmnXmk3)
 
@@ -8,3 +8,7 @@
 - Test Data
   - [face-1-480p.mp4](https://www.dropbox.com/scl/fi/b1qfc1drqeut3hcq7h9ad/face-1-480p.mp4?rlkey=krg9y3fqxjzf8rwxjot1b1akc&st=if1ky3xe&dl=0)
   - [faces-image.jpeg](https://www.dropbox.com/scl/fi/4kmw6ta04pv43lk59at78/faces-image.jpeg?rlkey=vx6jozeggjmetpl8dexnia7yx&st=fzvuwnhg&dl=0)
+
+# Senior Student Group (MediaPipe)
+
+## 1. [Introduction to Python](https://colab.research.google.com/drive/1Xjif0l1T265o3CJGt48gxgq462lQq1ng?usp=sharing)
