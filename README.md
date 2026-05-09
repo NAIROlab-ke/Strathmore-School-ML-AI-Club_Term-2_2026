@@ -57,7 +57,7 @@
 - Lights control with hand gestures
 - Volume control with hand gestures
 ### 5. App Development, Part 2 (June 18th)
-- Students showcase their own developments
+- Students showcase their own innovations
 ### 6. Exhibition Day Capstone Project Brainstorming (July 2)
 - Project Ideas
   - Vision-based RC Car Control (Raspberry Pi)
