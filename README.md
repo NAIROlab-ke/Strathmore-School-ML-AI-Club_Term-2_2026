@@ -47,7 +47,7 @@
 # Senior Student Group (MediaPipe)
 
 ### 1. [Introduction to Python](https://colab.research.google.com/drive/1Xjif0l1T265o3CJGt48gxgq462lQq1ng?usp=sharing) (May 7th/14th)
-### 2. Internet of Things (IoT) Protocols with Python (May 21th)
+### 2. [Internet of Things (IoT) Protocols with Python](https://colab.research.google.com/drive/1OeXjPPn027Rxyq0Wdg72c1fCaw8uuCR9) (May 21th)
 ### 3. MediaPipe API (May 28th)
 - Object Detection
 - Gesture Recognition
