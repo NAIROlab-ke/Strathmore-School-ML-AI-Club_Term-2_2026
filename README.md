@@ -12,7 +12,7 @@
   - [face-1-480p.mp4](https://www.dropbox.com/scl/fi/b1qfc1drqeut3hcq7h9ad/face-1-480p.mp4?rlkey=krg9y3fqxjzf8rwxjot1b1akc&st=if1ky3xe&dl=0)
   - [faces-image.jpeg](https://www.dropbox.com/scl/fi/4kmw6ta04pv43lk59at78/faces-image.jpeg?rlkey=vx6jozeggjmetpl8dexnia7yx&st=fzvuwnhg&dl=0)
 
-### 2. AI Ecosystem,  Part 2 (may 14)
+### 2. AI Ecosystem,  Part 2 (May 14)
 - Roboflow Tutorial
 - Homework: Soda-can annotation and custom YOLO model training
   
