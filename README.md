@@ -36,7 +36,7 @@
 ### 7. Exhibition Day Capstone Project Brainstorming (July 2)
 - Project Ideas
   - AI Vision-based Realtime Analysis of Strathmore School Field Sports
-  - Autopilot traffic-light and road-sign recognition
+  - Autopilot traffic-light and road-sign recognition (DonkeyCar Platform)
 
 ### 8. Capstone Project Development (July 9)
 ### 9. Exhibition Day Rehearsals (July 16)
@@ -60,8 +60,8 @@
 - Students showcase their own developments
 ### 6. Exhibition Day Capstone Project Brainstorming (July 2)
 - Project Ideas
-  - Vision-based RC Car Control
-  - AI Vision Smart CCTV with IoT integrations
+  - Vision-based RC Car Control (Raspberry Pi)
+  - AI Vision Smart CCTV with IoT integrations (Raspberry Pi)
 ### 7. Capstone Project Development (July 9)
 ### 8. Exhibition Day Rehearsals (July 16)
 ### 9. Exhibition Day (July 23)
