@@ -17,7 +17,7 @@
 - Homework: Soda-can annotation and custom YOLO model training
   
 ### 3. Realworld Football Analysis, Part 1  (May 21)
-- Analysis of project requirements
+- Understanding project requirements
   - Custom data annotation of players, refs, linesmen, etc
   - Image resolution
   - Model size (parameter count)
@@ -27,8 +27,8 @@
 - Showcasing and assessment of individual student YOLO models
 
 ### 5. Traffic Light Detection, Part 1 (June 4)
-- Data Collection and Annotation
-- Homework: Build of cutom YOLO model
+- Data Collection and Image Annotation
+- Homework: Build of custom YOLO model
 
 ### 6. Traffic Light Detection, Part 2 (June 18)
 - Deployment and testing of student models on autopilot system
