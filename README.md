@@ -61,7 +61,7 @@
 ### 6. Exhibition Day Capstone Project Brainstorming (July 2)
 - Project Ideas
   - Vision-based RC Car Control
-  - Smart CCTV
+  - AI Vision Smart CCTV with IoT integrations
 ### 7. Capstone Project Development (July 9)
 ### 8. Exhibition Day Rehearsals (July 16)
 ### 9. Exhibition Day (July 23)
