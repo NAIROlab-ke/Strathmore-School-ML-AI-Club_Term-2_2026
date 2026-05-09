@@ -14,4 +14,22 @@
 <br><br>
 # Senior Student Group (MediaPipe)
 
-### 1. [Introduction to Python](https://colab.research.google.com/drive/1Xjif0l1T265o3CJGt48gxgq462lQq1ng?usp=sharing)
+### 1. [Introduction to Python](https://colab.research.google.com/drive/1Xjif0l1T265o3CJGt48gxgq462lQq1ng?usp=sharing) (May 7th/14th)
+### 2. Internet of Things (IoT) Protocols with Python (May 21th)
+### 3. MediaPipe API (May 28th)
+- Object Detection
+- Gesture Recognition
+- Hand Landmark Recognition
+- Face Landmark Recognition
+### 4. App Development, Part 1 (June 4th)
+- Lights control with hand gestures
+- Volume control with hand gestures
+### 5. App Development, Part 2 (June 18th)
+- Students showcase their own developments
+### 6. Exhibition Day Capstone Project Brainstorming (July 2)
+- Project Ideas
+  - Vision-based RC Car Control
+  - Smart CCTV
+### 7. Capstone Project Development (July 9)
+### 8. Exhibition Day Rehearsals (July 16)
+### 9. Exhibition Day (July 23)
