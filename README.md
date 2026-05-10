@@ -62,6 +62,12 @@
 - Project Ideas
   - Vision-based RC Car Control (Raspberry Pi)
   - AI Vision Smart CCTV with IoT integrations (Raspberry Pi)
+    <!--
+      1. Prolonged raised hands pose-estimation signals possible distress.
+         Could trigger silent alarm and security protocol e.g. phone call with code word for affirmation
+      2. Pose-estimation in addition to face/body detection for human target counting
+      3. Gesture control
+     -->
 ### 7. Capstone Project Development (July 9)
 ### 8. Exhibition Day Rehearsals (July 16)
 ### 9. Exhibition Day (July 23)
