@@ -30,16 +30,26 @@
 - Understand Image Annotation for object detection tasks using Roboflow Platform
 - Build Soda-can detection model on Google Colab
 - [Google Colab Notebook](https://colab.research.google.com/drive/1Ywn4LSUa_OqYuXnMtqHCg5Ub_w7NcRDq?usp=drive_link)
+
+### 4. Football Player Detection, (June 18)
+- Introduce the concept of **fine-tuning** a **pre-trained** model
+  - Ultralyitics YOLO is a pre-trained model that can detect upto 80 classes out-of-the-box -- including "person" (i.e human) and field sports balls (football, volleyball, basketball, etc)
+  - Fine-tuning allows the pre-trained model to be used to detect classes that it was not originally trained for -- and even enhancing performance of trained classes  
+- Objective is to fine-tune a YOLO model
+  - distinguish between football players, goalkeepers, and refeeres (i.e. 3 new classes from the otherwise same "person" class)
+  - improve football detection
+- Inference results
+  - Fine-tuned model should detect only 4 classes: player, referee, goalkeeper, ball
+  - Other humans previously detected by pre-trained model (i.e. "human" class) should be ignored
+- Lab
+  - [Google Colab Notebook](https://colab.research.google.com/drive/1QXV9V6PGTMjLT1cSG44Xlw0b9atwr_7E?usp=drive_link)
+  - Upload [Football Test video](https://drive.google.com/file/d/11_AxeVf8nqumbQ2fQBYeY9Yw5unqveY3/view?usp=drive_link) to your Google Drive
   
-
 <!--
-### 4. Realworld Football Analysis, Part 2 (May 28)
-- Showcasing and assessment of individual student YOLO models
--->
-
 ### 4. Traffic Light Detection, Part 1 (June 18)
 - Data Collection and Image Annotation
 - Homework: Build of custom YOLO model
+-->
 <!--
 ### 6. Traffic Light Detection, Part 2 (June 18)
 - Deployment and testing of student models on autopilot system
