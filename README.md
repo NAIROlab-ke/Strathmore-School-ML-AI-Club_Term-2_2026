@@ -67,8 +67,9 @@
 # Senior Student Group (MediaPipe)
 
 ### 1. [Introduction to Python](https://colab.research.google.com/drive/1Xjif0l1T265o3CJGt48gxgq462lQq1ng?usp=sharing) (May 7th/14th)
-### 2. [Internet of Things (IoT) Protocols with Python](https://colab.research.google.com/drive/1OeXjPPn027Rxyq0Wdg72c1fCaw8uuCR9) (May 21th)
-### 3. MediaPipe API (May 28th)
+### 2. [Internet of Things (IoT) Protocols with Python](https://colab.research.google.com/drive/1OeXjPPn027Rxyq0Wdg72c1fCaw8uuCR9) (May 21th)     
+### 3. [Streamlit](https://colab.research.google.com/drive/1wVZIgjYCBR95nNL-ynEgySJZR4MN96mN#scrollTo=kOSTeKHPsDNJ)  (June 4)
+### 4. MediaPipe API (June 18th)
 - Object Detection
   - [Notebook](https://colab.research.google.com/drive/1RBEKU4mP8_T52Q8IDljfTPWMY9IjCbqF?usp=drive_link)
   - [Test Video](https://drive.google.com/file/d/1n0w5rwSewhPGay13mRt3GItH4coWWybD/view?usp=sharing)
@@ -91,9 +92,7 @@
 - Pose Landmark Detection
   - [Notebook](https://colab.research.google.com/drive/1PiNBxNATMRdzbg21hVHZNPYgfOknVUNE?usp=drive_link)
   - [Test Video](https://drive.google.com/file/d/1P_qjE2pHV_mFSn3zfSSkdt-9sHTMNngA/view?usp=sharing)
-     
-### 4. [Streamlit](https://colab.research.google.com/drive/1wVZIgjYCBR95nNL-ynEgySJZR4MN96mN#scrollTo=kOSTeKHPsDNJ)  (June 4)
-### 5. App Development, (June 18th)
+### 5. App Development, (June 25th)
 - Lights control with hand gestures
 - Volume control with hand gestures
 ### 6. Exhibition Day Capstone Project Brainstorming (July 2)
