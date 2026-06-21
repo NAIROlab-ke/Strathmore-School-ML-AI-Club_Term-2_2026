@@ -40,7 +40,7 @@
   - improve football detection
 - Inference results
   - Fine-tuned model should detect only 4 classes: player, referee, goalkeeper, ball
-  - Other humans previously detected by pre-trained model (i.e. "human" class) should be ignored
+  - Other humans previously detected by pre-trained model (i.e. "person" class) should be ignored
 - Lab
   - [Google Colab Notebook](https://colab.research.google.com/drive/1QXV9V6PGTMjLT1cSG44Xlw0b9atwr_7E?usp=drive_link)
   - Upload [Football Test video](https://drive.google.com/file/d/11_AxeVf8nqumbQ2fQBYeY9Yw5unqveY3/view?usp=drive_link) to your Google Drive (i.e. `MyDrive`)
