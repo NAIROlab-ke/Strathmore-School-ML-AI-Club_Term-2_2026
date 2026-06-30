@@ -117,8 +117,21 @@
 
 ### 5. Artificial Intelligence of Things, AIoT (July 2nd)
 
-<img width="999" height="421" alt="aiot-arch" src="https://github.com/user-attachments/assets/2c971f16-48df-4ced-be95-fb919f900b26" />
+- **AIoT** combines **Artificial Intelligence (AI)** with the **Internet of Things (IoT)** to create smart systems that can **sense, understand, communicate,** and **respond** to their environment.
+- In this lesson:
+  - **MediaPipe** acts as the intelligent sensor that detects events,
+  - **MQTT** provides the IoT messaging that connects components,
+  - **Streamlit** serves as the dashboard that displays and reacts to those events
+    
+  ... illustrating how modern AI-enabled systems are built from **independent** and **loosely-coupled** services working together.
 
+  <img width="999" height="421" alt="aiot-arch" src="https://github.com/user-attachments/assets/1c107a3e-f58f-4a64-8610-3cc2610cb8dd" />
+
+- Gesture Recognition Sensor [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1twePz-VGX2P3IL2JOTqOxQK63IX9UB9L)
+- Gaze Detection Sensor [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V5cbNkvrQoyiFDRlgqPpR7QbIqXrhvfv)
+- Person Detection Sensor [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1l0euXnNbQuUfrc_V882zkoIlMr9fLikD)
+- Streamlit Dashboard [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nuZchxeoMemQZRmbtFbOOtCMJm2uXpcp)
+  
 ### 6. App Development, (June 25th)
 - Lights control with hand gestures
 - Volume control with hand gestures
