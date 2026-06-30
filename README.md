@@ -70,6 +70,9 @@
 * **Evaluation methodology** — Appropriate metrics (e.g., Precision, Recall, F1, mAP, IoU, accuracy) and a well-designed validation/test split are essential for measuring real-world performance.
 * **Deployment requirements** — Models are often optimized differently depending on whether they run in the cloud, on PCs, or on edge devices where latency, memory, and power consumption matter.
 
+- Lab / Assignment
+  - Use this [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lCBm-YgMkxE51f8howMyd0imUFjhogBV#scrollTo=QfEvrBeMHVI2) notebook to train a model for an arbitrary object detection task
+    
 ### 5. Exhibition Day Capstone Project Brainstorming (July 9)
 - Project Ideas
   - AI Vision-based Realtime Analysis of Strathmore School Field Sports
