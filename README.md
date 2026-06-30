@@ -132,19 +132,6 @@
 - Person Detection Sensor [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1l0euXnNbQuUfrc_V882zkoIlMr9fLikD)
 - Streamlit Dashboard [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nuZchxeoMemQZRmbtFbOOtCMJm2uXpcp)
   
-### 6. App Development, (June 25th)
-- Lights control with hand gestures
-- Volume control with hand gestures
-### 7. Exhibition Day Capstone Project Brainstorming (July 2)
-- Project Ideas
-  - Vision-based RC Car Control (Raspberry Pi)
-  - AI Vision Smart CCTV with IoT integrations (Raspberry Pi)
-    <!--
-      1. Prolonged raised hands pose-estimation signals possible distress.
-         Could trigger silent alarm and security protocol e.g. phone call with code word for affirmation
-      2. Pose-estimation in addition to face/body detection for human target counting
-      3. Gesture control
-     -->
 ### 8. Capstone Project Development (July 9)
 ### 8. Exhibition Day Rehearsals (July 16)
 ### 9. Exhibition Day (July 23)
