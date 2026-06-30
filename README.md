@@ -3,8 +3,8 @@
 # Junior Student Group (YOLO)
 
 ### 1. AI Ecosystem, Part 1 (May 7 - 14)
-- [Colab and Linux CLI, Introduction](https://colab.research.google.com/drive/1MbQ_D4J1lOiqfEmNwLnFpiD-gqmnXmk3)
-- [Face Detection with YOLO on Colab](https://colab.research.google.com/drive/1ZFKzxWIkEe3ptxmgcRDKUSZeGNW1KVMN#scrollTo=148eRPF04odg)
+- **Colab and Linux CLI, Introduction** [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MbQ_D4J1lOiqfEmNwLnFpiD-gqmnXmk3)
+- **Face Detection with YOLO on Colab** [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZFKzxWIkEe3ptxmgcRDKUSZeGNW1KVMN#scrollTo=148eRPF04odg)
 - Training Dataset
   - [v2.v2i.yolov8-face-detection-data.zip](https://www.dropbox.com/scl/fi/f1hvkvjk1fe3qx5ze84gv/v2.v2i.yolov8-face-detection-data.zip?rlkey=msa8tjdedg2bpe34a272lzdrw&st=rr7ygsbp&dl=0)
     
@@ -15,7 +15,8 @@
   - [faces-image.jpeg](https://www.dropbox.com/scl/fi/4kmw6ta04pv43lk59at78/faces-image.jpeg?rlkey=vx6jozeggjmetpl8dexnia7yx&st=fzvuwnhg&dl=0)
 
 ### 2. AI Ecosystem,  Part 2 (May 21/28)
-- **Watch this first!** [**Roboflow + Google Drive + Google Colab Training Pipleline Tutorial**](https://colab.research.google.com/drive/1ZFKzxWIkEe3ptxmgcRDKUSZeGNW1KVMN#scrollTo=148eRPF04odg)
+- [**Roboflow + Google Drive + Google Colab Training Pipleline Tutorial**](https://drive.google.com/file/d/1NpfRzsEuaKeDfPifsteSMr2nJxvCEU50/view?usp=drive_link)
+- [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZFKzxWIkEe3ptxmgcRDKUSZeGNW1KVMN#scrollTo=148eRPF04odg)
 - Homework:
   - Explore and select a different dataset for the detection of an object of choice (e.g. soda-can, road or traffic signs, sunflowers, etc) from the Roboflow Universe and train a custom Ultralytics YOLO model in Colab
 
@@ -31,7 +32,7 @@
 ### 3. Soda-Can Detection (June 4th)
 - Understand Image Annotation for object detection tasks using Roboflow Platform
 - Build Soda-can detection model on Google Colab
-- [Google Colab Notebook](https://colab.research.google.com/drive/1Ywn4LSUa_OqYuXnMtqHCg5Ub_w7NcRDq?usp=drive_link)
+- [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ywn4LSUa_OqYuXnMtqHCg5Ub_w7NcRDq?usp=drive_link)
 
 ### 4. Football Player Detection, (June 18)
 - Introduce the concept of **fine-tuning** a **pre-trained** model
@@ -44,7 +45,7 @@
   - Fine-tuned model should detect only 4 classes: player, referee, goalkeeper, ball
   - Other humans previously detected by pre-trained model (i.e. "person" class) should be ignored
 - Lab
-  - [Google Colab Notebook](https://colab.research.google.com/drive/1QXV9V6PGTMjLT1cSG44Xlw0b9atwr_7E?usp=drive_link)
+  - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QXV9V6PGTMjLT1cSG44Xlw0b9atwr_7E?usp=drive_link)
   - Upload [Football Test video](https://drive.google.com/file/d/11_AxeVf8nqumbQ2fQBYeY9Yw5unqveY3/view?usp=drive_link) to your Google Drive (i.e. `MyDrive`)
   
 <!--
@@ -56,6 +57,19 @@
 ### 6. Traffic Light Detection, Part 2 (June 18)
 - Deployment and testing of student models on autopilot system
 -->
+
+### 5. Understanding AI Model Training and Performance (July 2nd)
+
+* **Dataset quality** — Accurate labels, representative samples, balanced classes, and sufficient diversity.
+* **Dataset size** — More high-quality data generally leads to better generalization.
+* **Data preprocessing & augmentation** — Resizing, normalization, flips, crops, color jitter, noise, etc., improve robustness.
+* **Model architecture** — The choice of neural network (e.g., CNN, YOLO, U-Net, RT-DETR, ViT) determines the model's capacity and computational requirements.
+* **Hyperparameters** — Learning rate, batch size, epochs, optimizer, weight decay, image resolution, and other training settings strongly influence convergence.
+* **Transfer Learning**/**Fine-tuning** — Starting from pretrained weights typically reduces training time and improves performance, especially with limited data.
+* **Compute resources** — GPU memory and processing power affect feasible model size, batch size, image resolution, and training time.
+* **Evaluation methodology** — Appropriate metrics (e.g., Precision, Recall, F1, mAP, IoU, accuracy) and a well-designed validation/test split are essential for measuring real-world performance.
+* **Deployment requirements** — Models are often optimized differently depending on whether they run in the cloud, on PCs, or on edge devices where latency, memory, and power consumption matter.
+
 ### 5. Exhibition Day Capstone Project Brainstorming (July 9)
 - Project Ideas
   - AI Vision-based Realtime Analysis of Strathmore School Field Sports
@@ -73,26 +87,26 @@
 ### 3. [Streamlit](https://colab.research.google.com/drive/1wVZIgjYCBR95nNL-ynEgySJZR4MN96mN#scrollTo=kOSTeKHPsDNJ)  (June 4)
 ### 4. MediaPipe API (June 18th)
 - Object Detection
-  - [Notebook](https://colab.research.google.com/drive/1RBEKU4mP8_T52Q8IDljfTPWMY9IjCbqF?usp=drive_link)
+  - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RBEKU4mP8_T52Q8IDljfTPWMY9IjCbqF?usp=drive_link)
   - [Test Video](https://drive.google.com/file/d/1n0w5rwSewhPGay13mRt3GItH4coWWybD/view?usp=sharing)
 - Face Detection
-  - [Notebook](https://colab.research.google.com/drive/1HUIvbgDdP1Pm5kB16Zqhu1JXtuGG_2R9?usp=drive_link)
+  - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HUIvbgDdP1Pm5kB16Zqhu1JXtuGG_2R9?usp=drive_link)
   - [Test Video 0](https://drive.google.com/file/d/1sPKL8GDBxEc017sYRgIHjuSquqgcdq5E/view?usp=sharing)
   - [Test Video 1](https://drive.google.com/file/d/19lJL-3Tesa9liDVnTQtPHZCERvRvsyaf/view?usp=sharing)
   - [Test Video 2](https://drive.google.com/file/d/1VIxy4oOr9bEA8-0rrIs0eCCCVDdSLjiu/view?usp=sharing)
   - [Test Video 3](https://drive.google.com/file/d/1EKW8PCeh33p2FeeKErnwUQVsV4T7vYoA/view?usp=sharing)
 - Face Landmark Detection
-  - [Notebook](https://colab.research.google.com/drive/1_5AgOQooE9SZJF5SIsVmPnatNQbugmCY?usp=drive_link)
+  - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_5AgOQooE9SZJF5SIsVmPnatNQbugmCY?usp=drive_link)
   - [Test Video 0](https://drive.google.com/file/d/19lJL-3Tesa9liDVnTQtPHZCERvRvsyaf/view?usp=sharing)
   - [Test Video 1](https://drive.google.com/file/d/1VIxy4oOr9bEA8-0rrIs0eCCCVDdSLjiu/view?usp=sharing)
 - Hand Landmark Detection
-  - [Notebook](https://colab.research.google.com/drive/1Bn63vY6i3cBeE94bUDptUu4DbiKwQGNM?usp=drive_link)
+  - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Bn63vY6i3cBeE94bUDptUu4DbiKwQGNM?usp=drive_link)
   - [Test Video](https://drive.google.com/file/d/1WmNtTK48xNdWgn4e9YWFqnuotQiW5O8X/view?usp=sharing)     
 - Gesture Recognition
-  - [Notebook](https://colab.research.google.com/drive/1AqW_c0ofphjoLQzyHyCQdOjWWbVwY8p2?usp=drive_link)
+  - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AqW_c0ofphjoLQzyHyCQdOjWWbVwY8p2?usp=drive_link)
   - [Test Video](https://drive.google.com/file/d/1WmNtTK48xNdWgn4e9YWFqnuotQiW5O8X/view?usp=sharing)
 - Pose Landmark Detection
-  - [Notebook](https://colab.research.google.com/drive/1PiNBxNATMRdzbg21hVHZNPYgfOknVUNE?usp=drive_link)
+  - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PiNBxNATMRdzbg21hVHZNPYgfOknVUNE?usp=drive_link)
   - [Test Video](https://drive.google.com/file/d/1P_qjE2pHV_mFSn3zfSSkdt-9sHTMNngA/view?usp=sharing)
     
 ### 5. App Development, (June 25th)
