@@ -119,7 +119,7 @@
 
 - **AIoT** combines **Artificial Intelligence (AI)** with the **Internet of Things (IoT)** to create smart systems that can **sense, understand, communicate,** and **respond** to their environment.
 - In this lesson:
-  - **MediaPipe** acts as the intelligent sensor that detects events,
+  - **MediaPipe** acts as the intelligent vision-based sensor that detects events,
   - **MQTT** provides the IoT messaging that connects components,
   - **Streamlit** serves as the dashboard that displays and reacts to those events
     
@@ -127,9 +127,9 @@
 
   <img width="999" height="421" alt="aiot-arch" src="https://github.com/user-attachments/assets/1c107a3e-f58f-4a64-8610-3cc2610cb8dd" />
 
-- Gesture Recognition Sensor [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1twePz-VGX2P3IL2JOTqOxQK63IX9UB9L)
-- Gaze Detection Sensor [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V5cbNkvrQoyiFDRlgqPpR7QbIqXrhvfv)
-- Person Detection Sensor [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1l0euXnNbQuUfrc_V882zkoIlMr9fLikD)
+- Gesture Recognition Sensing [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1twePz-VGX2P3IL2JOTqOxQK63IX9UB9L)
+- Gaze Detection Sensing [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V5cbNkvrQoyiFDRlgqPpR7QbIqXrhvfv)
+- Person Detection Sensing [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1l0euXnNbQuUfrc_V882zkoIlMr9fLikD)
 - Streamlit Dashboard [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nuZchxeoMemQZRmbtFbOOtCMJm2uXpcp)
   
 ### 6. Capstone Project Development (July 9)
