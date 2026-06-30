@@ -127,9 +127,19 @@
 
   <img width="999" height="421" alt="aiot-arch" src="https://github.com/user-attachments/assets/1c107a3e-f58f-4a64-8610-3cc2610cb8dd" />
 
-- Gesture Recognition Sensing [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1twePz-VGX2P3IL2JOTqOxQK63IX9UB9L)
-- Gaze Detection Sensing [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V5cbNkvrQoyiFDRlgqPpR7QbIqXrhvfv)
-- Person Detection Sensing [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1l0euXnNbQuUfrc_V882zkoIlMr9fLikD)
+- Gesture Recognition Sensing
+  - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1twePz-VGX2P3IL2JOTqOxQK63IX9UB9L)
+  - [Thumb Up](https://drive.google.com/file/d/1-x0MmaHBhVoeoj8cWHOklkmO-efb-TgS/view?usp=drive_link)
+  - [Thumb Down](https://drive.google.com/file/d/1GoFYS3_CaZotuZ5BxdKjzWr9rFpW_mo1/view?usp=sharing)
+    
+- Gaze Detection Sensing
+  - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V5cbNkvrQoyiFDRlgqPpR7QbIqXrhvfv)
+  - [Gradually facing camera](https://drive.google.com/file/d/1XV3mZpf8SK9bMKwdb4pU5izpPdrZhUyG/view?usp=sharing)
+    
+- Person Detection Sensing
+  - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1l0euXnNbQuUfrc_V882zkoIlMr9fLikD)
+  - [Man walking in and out of room](https://drive.google.com/file/d/1qLhuFXLVMNy_hB4aqe90t6YUitm80XHD/view?usp=sharing)
+  
 - Streamlit Dashboard [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nuZchxeoMemQZRmbtFbOOtCMJm2uXpcp)
   
 ### 6. Capstone Project Development (July 9)
