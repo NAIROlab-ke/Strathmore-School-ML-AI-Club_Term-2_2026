@@ -73,13 +73,13 @@
 - Lab / Assignment
   - Use this [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lCBm-YgMkxE51f8howMyd0imUFjhogBV#scrollTo=QfEvrBeMHVI2) notebook to train a model for an arbitrary object detection task
     
-### 5. Exhibition Day Capstone Project Brainstorming (July 9)
+### 6. Exhibition Day Capstone Project Brainstorming (July 9)
 - Project Ideas
   - AI Vision-based Realtime Analysis of Strathmore School Field Sports
   - Autopilot traffic-light and road-sign recognition (DonkeyCar Platform)
 
-### 6. Exhibition Day Rehearsals (July 16)
-### 7. Exhibition Day (July 23)
+### 7. Exhibition Day Rehearsals (July 16)
+### 8. Exhibition Day (July 23)
 
 <br><br>
 
@@ -132,6 +132,6 @@
 - Person Detection Sensor [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1l0euXnNbQuUfrc_V882zkoIlMr9fLikD)
 - Streamlit Dashboard [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nuZchxeoMemQZRmbtFbOOtCMJm2uXpcp)
   
-### 8. Capstone Project Development (July 9)
-### 8. Exhibition Day Rehearsals (July 16)
-### 9. Exhibition Day (July 23)
+### 6. Capstone Project Development (July 9)
+### 7. Exhibition Day Rehearsals (July 16)
+### 8. Exhibition Day (July 23)
