@@ -140,7 +140,8 @@
   - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1l0euXnNbQuUfrc_V882zkoIlMr9fLikD)
   - [Man walking in and out of room Video](https://drive.google.com/file/d/1qLhuFXLVMNy_hB4aqe90t6YUitm80XHD/view?usp=sharing)
   
-- Streamlit Dashboard [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nuZchxeoMemQZRmbtFbOOtCMJm2uXpcp)
+- Streamlit Frontend via VScode
+  - Follow instructions in [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nuZchxeoMemQZRmbtFbOOtCMJm2uXpcp) to setup a Streamlit dashboard and MQTT listener on your local machine (Microsoft Windows)
   
 ### 6. Capstone Project Development (July 9)
 ### 7. Exhibition Day Rehearsals (July 16)
