@@ -72,7 +72,9 @@
 
 - Lab / Assignment
   - Use this [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lCBm-YgMkxE51f8howMyd0imUFjhogBV#scrollTo=QfEvrBeMHVI2) notebook to train a model for an arbitrary object detection task
-  - By default, it uses [**this**](https://drive.google.com/file/d/1nXXcZtbm0oRcKmTu5oxywNjAWOYqSSef/view?usp=sharing) dataset. Upload to your Google Drive (directly under `MyDrive`).
+  - By default, this notebook
+    - uses the [**Cardboard-box-detection.v1i.yolov8.zip**](https://drive.google.com/file/d/1nXXcZtbm0oRcKmTu5oxywNjAWOYqSSef/view?usp=sharing) dataset. Upload to your Google Drive (directly under `MyDrive`).
+    - automatically connects to, and runs inference on, this [**YouTube video of Boxes on a Conveyer-belt**](https://www.youtube.com/watch?v=rSRlaWbSctw)
       
 ### 6. Exhibition Day Capstone Project Brainstorming (July 9)
 - Project Ideas
